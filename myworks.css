@@ -1,0 +1,23 @@
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -ms-box-sizing: border-box;
+    box-sizing: border-box;
+}
+.container {
+    max-width: 960px;
+}
+body {
+    font-family: 'Source Sans Pro', sans-serif;
+    color: #110e0d;
+    font-weight: 300; 
+}
+hr {
+    height: 5px;
+    background-color: rgb(19, 241, 241);
+    max-width: 960px;
+    margin: 15px 0;
+}
+.text-name {
+    font-size: 45px;
+}

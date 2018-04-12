@@ -1,0 +1,25 @@
+div{border:1px solid grey; 
+    width:315px;
+    padding: 10px;
+    border-radius:5px;
+    box-shadow: 5px 5px 20px grey;}
+
+img{width:300px;
+    height:200px;
+    margin:5px;}
+
+.description{border:1px solid darkgrey; 
+            margin-top:10px;
+            width:290px;
+            padding:10px;
+            box-shadow: none;
+            background-color: darkgray;}
+
+.dog1{font-style:italic;}
+
+span{font-weight:bold;}
+
+ul{list-style:none;
+    padding-left: 0;}
+
+h3{padding-left: 5px;}
